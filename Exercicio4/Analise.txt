@@ -1,0 +1,2 @@
+Ao rodar a correlação entre as colunas, foi possivel identificar que não existe uma correlação forte o suficiente para determinar os responsáveis
+pela maioria das doenças respiratórias por intoxicação poluente.
